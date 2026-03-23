@@ -100,12 +100,7 @@ You should see version numbers for both.
 ### Step 4 — Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/Termux-Telegram-AI-Agent.git
-cd Termux-Telegram-AI-Agent
-```
-
-> Replace `your-username` with the actual GitHub username.
-
+git clone https://github.com/Marcusbennettnyx/Termux-Telegram-AI-Agent.git
 ---
 
 ### Step 5 — Install Python Dependencies
