@@ -1,0 +1,11 @@
+{
+  "TELEGRAM_BOT_TOKEN": "YOUR_TELEGRAM_BOT_TOKEN",
+  "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY",
+  "AUTHORIZED_USER_ID": "YOUR_TELEGRAM_USER_ID",
+
+  "AI_MODEL": "gpt-4o-mini",
+
+  "SYSTEM_PROMPT": "You are a helpful, concise, and smart AI assistant running on an Android phone via Termux. Keep responses clear and well-structured.",
+
+  "MAX_RETRIES": 3
+}

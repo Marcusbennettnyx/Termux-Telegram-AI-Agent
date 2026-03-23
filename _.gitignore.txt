@@ -1,0 +1,28 @@
+# ─── Sensitive files — NEVER commit these ───
+config.json
+*.env
+.env
+
+# ─── Log files ───
+*.log
+agent.log
+
+# ─── Python cache ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ─── Virtual environments ───
+venv/
+.venv/
+env/
+
+# ─── OS files ───
+.DS_Store
+Thumbs.db
+
+# ─── IDE files ───
+.idea/
+.vscode/
+*.swp
